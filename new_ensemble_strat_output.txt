@@ -1,0 +1,343 @@
+--------------------------------------------------
+ - Turbulence_threshold:  171.09407156310158
+ - Model training from:  20090000 to  20151002
+ - SAC Training
+ - Training time (SAC):  1.4390935142834982  minutes
+ - SAC Validation from:  20151002 to  20160104
+ - SAC Sharpe Ratio:  0.04459007490025307
+ - TD3 Training
+ - Training time (TD3):  1.3633093555768332  minutes
+ - TD3 Validation from:  20151002 to  20160104
+ - TD3 Sharpe Ratio:  0.04949374148084259
+ - Trading from:  20160104 to  20160405
+--------------------------------------------------
+previous_total_asset:1000000
+end_total_asset:1047647.7261300005
+total_reward:47647.72613000055
+total_cost:  1248.56387
+total trades:  1126
+Sharpe:  0.15054167603176938
+--------------------------------------------------
+ - Turbulence_threshold:  96.08032158358223
+ - Model training from:  20090000 to  20160104
+ - SAC Training
+ - Training time (SAC):  1.565571633974711  minutes
+ - SAC Validation from:  20160104 to  20160405
+ - SAC Sharpe Ratio:  0.07537160157486993
+ - TD3 Training
+ - Training time (TD3):  1.3757617115974425  minutes
+ - TD3 Validation from:  20160104 to  20160405
+ - TD3 Sharpe Ratio:  0.07692787020122177
+ - Trading from:  20160405 to  20160705
+--------------------------------------------------
+previous_total_asset:1047647.7261300005
+end_total_asset:1067367.6511000006
+total_reward:19719.92497000005
+total_cost:  813.7282899999994
+total trades:  1053
+Sharpe:  0.07877355966647903
+--------------------------------------------------
+ - Turbulence_threshold:  171.09407156310158
+ - Model training from:  20090000 to  20160405
+ - SAC Training
+ - Training time (SAC):  1.5411421100298563  minutes
+ - SAC Validation from:  20160405 to  20160705
+ - SAC Sharpe Ratio:  0.0944711227461015
+ - TD3 Training
+ - Training time (TD3):  1.39557630221049  minutes
+ - TD3 Validation from:  20160405 to  20160705
+ - TD3 Sharpe Ratio:  0.07029329290344205
+ - Trading from:  20160705 to  20161003
+--------------------------------------------------
+previous_total_asset:1067367.6511000006
+end_total_asset:1051274.992017656
+total_reward:-16092.6590823445
+total_cost:  904.491496320344
+total trades:  970
+Sharpe:  -0.07644736541183769
+--------------------------------------------------
+ - Turbulence_threshold:  171.09407156310158
+ - Model training from:  20090000 to  20160705
+ - SAC Training
+ - Training time (SAC):  1.5525787353515625  minutes
+ - SAC Validation from:  20160705 to  20161003
+ - SAC Sharpe Ratio:  0.27720433779373094
+ - TD3 Training
+ - Training time (TD3):  1.3970195611317953  minutes
+ - TD3 Validation from:  20160705 to  20161003
+ - TD3 Sharpe Ratio:  0.07809099444103698
+ - Trading from:  20161003 to  20170103
+--------------------------------------------------
+previous_total_asset:1051274.992017656
+end_total_asset:1090366.063567656
+total_reward:39091.07154999999
+total_cost:  1313.6266000000014
+total trades:  1069
+Sharpe:  0.21489414955540173
+--------------------------------------------------
+ - Turbulence_threshold:  171.09407156310158
+ - Model training from:  20090000 to  20161003
+ - SAC Training
+ - Training time (SAC):  1.5291840155919394  minutes
+ - SAC Validation from:  20161003 to  20170103
+ - SAC Sharpe Ratio:  0.5381266254819433
+ - TD3 Training
+ - Training time (TD3):  1.411998414993286  minutes
+ - TD3 Validation from:  20161003 to  20170103
+ - TD3 Sharpe Ratio:  0.6492388494653054
+ - Trading from:  20170103 to  20170404
+--------------------------------------------------
+previous_total_asset:1090366.063567656
+end_total_asset:1097764.425197762
+total_reward:7398.361630105879
+total_cost:  2129.9551807695784
+total trades:  1078
+Sharpe:  0.042546677541912784
+--------------------------------------------------
+ - Turbulence_threshold:  96.08032158358223
+ - Model training from:  20090000 to  20170103
+ - SAC Training
+ - Training time (SAC):  1.578045650323232  minutes
+ - SAC Validation from:  20170103 to  20170404
+ - SAC Sharpe Ratio:  0.36850889465983894
+ - TD3 Training
+ - Training time (TD3):  1.4508602102597554  minutes
+ - TD3 Validation from:  20170103 to  20170404
+ - TD3 Sharpe Ratio:  0.18416322500905638
+ - Trading from:  20170404 to  20170705
+--------------------------------------------------
+previous_total_asset:1097764.425197762
+end_total_asset:1102420.2263171931
+total_reward:4655.801119431155
+total_cost:  4016.2534790999116
+total trades:  881
+Sharpe:  0.03673951036784833
+--------------------------------------------------
+ - Turbulence_threshold:  171.09407156310158
+ - Model training from:  20090000 to  20170404
+ - SAC Training
+ - Training time (SAC):  1.604184897740682  minutes
+ - SAC Validation from:  20170404 to  20170705
+ - SAC Sharpe Ratio:  0.33918079084846564
+ - TD3 Training
+ - Training time (TD3):  1.4391835848490397  minutes
+ - TD3 Validation from:  20170404 to  20170705
+ - TD3 Sharpe Ratio:  0.35365421631422955
+ - Trading from:  20170705 to  20171003
+--------------------------------------------------
+previous_total_asset:1102420.2263171931
+end_total_asset:1143961.9129060057
+total_reward:41541.68658881262
+total_cost:  2297.265708963298
+total trades:  1061
+Sharpe:  0.2750795341408569
+--------------------------------------------------
+ - Turbulence_threshold:  171.09407156310158
+ - Model training from:  20090000 to  20170705
+ - SAC Training
+ - Training time (SAC):  1.6197486917177837  minutes
+ - SAC Validation from:  20170705 to  20171003
+ - SAC Sharpe Ratio:  0.2538462161534873
+ - TD3 Training
+ - Training time (TD3):  1.4794325709342957  minutes
+ - TD3 Validation from:  20170705 to  20171003
+ - TD3 Sharpe Ratio:  0.1778391687931677
+ - Trading from:  20171003 to  20180103
+--------------------------------------------------
+previous_total_asset:1143961.9129060057
+end_total_asset:1245250.596689159
+total_reward:101288.6837831533
+total_cost:  1128.62513271122
+total trades:  1044
+Sharpe:  0.5883449980115353
+--------------------------------------------------
+ - Turbulence_threshold:  96.08032158358223
+ - Model training from:  20090000 to  20171003
+ - SAC Training
+ - Training time (SAC):  1.6510231932004293  minutes
+ - SAC Validation from:  20171003 to  20180103
+ - SAC Sharpe Ratio:  0.32350553411215477
+ - TD3 Training
+ - Training time (TD3):  1.4628042578697205  minutes
+ - TD3 Validation from:  20171003 to  20180103
+ - TD3 Sharpe Ratio:  0.7454574316829791
+ - Trading from:  20180103 to  20180405
+--------------------------------------------------
+previous_total_asset:1245250.596689159
+end_total_asset:1250435.6368004882
+total_reward:5185.040111329174
+total_cost:  1635.949635442544
+total trades:  317
+Sharpe:  0.026963916893612848
+--------------------------------------------------
+ - Turbulence_threshold:  96.08032158358223
+ - Model training from:  20090000 to  20180103
+ - SAC Training
+ - Training time (SAC):  1.590521228313446  minutes
+ - SAC Validation from:  20180103 to  20180405
+ - SAC Sharpe Ratio:  -0.0632577655928537
+ - TD3 Training
+ - Training time (TD3):  1.481338135401408  minutes
+ - TD3 Validation from:  20180103 to  20180405
+ - TD3 Sharpe Ratio:  -0.09830200575631837
+ - Trading from:  20180405 to  20180705
+--------------------------------------------------
+previous_total_asset:1250435.6368004882
+end_total_asset:1242603.5836304887
+total_reward:-7832.0531699995045
+total_cost:  2455.7424699999992
+total trades:  685
+Sharpe:  -0.024913968579037653
+--------------------------------------------------
+ - Turbulence_threshold:  96.08032158358223
+ - Model training from:  20090000 to  20180405
+ - SAC Training
+ - Training time (SAC):  1.599282193183899  minutes
+ - SAC Validation from:  20180405 to  20180705
+ - SAC Sharpe Ratio:  0.04412601923950314
+ - TD3 Training
+ - Training time (TD3):  1.450049638748169  minutes
+ - TD3 Validation from:  20180405 to  20180705
+ - TD3 Sharpe Ratio:  -0.02433617012885251
+ - Trading from:  20180705 to  20181003
+--------------------------------------------------
+previous_total_asset:1242603.5836304887
+end_total_asset:1252572.9238304317
+total_reward:9969.340199942933
+total_cost:  5722.661466945693
+total trades:  702
+Sharpe:  0.07304782007556213
+--------------------------------------------------
+ - Turbulence_threshold:  96.08032158358223
+ - Model training from:  20090000 to  20180705
+ - SAC Training
+ - Training time (SAC):  1.5514034946759543  minutes
+ - SAC Validation from:  20180705 to  20181003
+ - SAC Sharpe Ratio:  0.4069651972937916
+ - TD3 Training
+ - Training time (TD3):  1.437162744998932  minutes
+ - TD3 Validation from:  20180705 to  20181003
+ - TD3 Sharpe Ratio:  0.11358924209789902
+ - Trading from:  20181003 to  20190104
+--------------------------------------------------
+previous_total_asset:1252572.9238304317
+end_total_asset:1262111.3488304312
+total_reward:9538.42499999958
+total_cost:  1221.2910000000006
+total trades:  126
+Sharpe:  0.12261637031786407
+--------------------------------------------------
+ - Turbulence_threshold:  171.09407156310158
+ - Model training from:  20090000 to  20181003
+ - SAC Training
+ - Training time (SAC):  1.5259676655133565  minutes
+ - SAC Validation from:  20181003 to  20190104
+ - SAC Sharpe Ratio:  -0.3603463277491922
+ - TD3 Training
+ - Training time (TD3):  1.4780780752499898  minutes
+ - TD3 Validation from:  20181003 to  20190104
+ - TD3 Sharpe Ratio:  -0.3589992578446353
+ - Trading from:  20190104 to  20190405
+--------------------------------------------------
+previous_total_asset:1262111.3488304312
+end_total_asset:1347854.929289922
+total_reward:85743.58045949065
+total_cost:  1634.8500505628122
+total trades:  1193
+Sharpe:  0.25002831874786524
+--------------------------------------------------
+ - Turbulence_threshold:  96.08032158358223
+ - Model training from:  20090000 to  20190104
+ - SAC Training
+ - Training time (SAC):  1.5664107958475748  minutes
+ - SAC Validation from:  20190104 to  20190405
+ - SAC Sharpe Ratio:  -0.0803533596995579
+ - TD3 Training
+ - Training time (TD3):  1.4597390611966452  minutes
+ - TD3 Validation from:  20190104 to  20190405
+ - TD3 Sharpe Ratio:  0.21623770989444344
+ - Trading from:  20190405 to  20190708
+--------------------------------------------------
+previous_total_asset:1347854.929289922
+end_total_asset:1357555.198889922
+total_reward:9700.2696
+total_cost:  1637.4803999999992
+total trades:  160
+Sharpe:  0.29460175436313946
+--------------------------------------------------
+ - Turbulence_threshold:  96.08032158358223
+ - Model training from:  20090000 to  20190405
+ - SAC Training
+ - Training time (SAC):  1.5387241164843242  minutes
+ - SAC Validation from:  20190405 to  20190708
+ - SAC Sharpe Ratio:  0.30258085135729157
+ - TD3 Training
+ - Training time (TD3):  1.4330769022305807  minutes
+ - TD3 Validation from:  20190405 to  20190708
+ - TD3 Sharpe Ratio:  0.3829186735437279
+ - Trading from:  20190708 to  20191004
+--------------------------------------------------
+previous_total_asset:1357555.198889922
+end_total_asset:1366532.9508599215
+total_reward:8977.751969999634
+total_cost:  2451.72411
+total trades:  269
+Sharpe:  0.10800131468890857
+--------------------------------------------------
+ - Turbulence_threshold:  96.08032158358223
+ - Model training from:  20090000 to  20190708
+ - SAC Training
+ - Training time (SAC):  1.5363823095957438  minutes
+ - SAC Validation from:  20190708 to  20191004
+ - SAC Sharpe Ratio:  0.18019455178339833
+ - TD3 Training
+ - Training time (TD3):  1.4352897683779398  minutes
+ - TD3 Validation from:  20190708 to  20191004
+ - TD3 Sharpe Ratio:  -0.044705967327985485
+ - Trading from:  20191004 to  20200106
+--------------------------------------------------
+previous_total_asset:1366532.9508599215
+end_total_asset:1364859.6598599213
+total_reward:-1673.2910000002012
+total_cost:  292.68999999999994
+total trades:  48
+Sharpe:  -0.422069472929717
+--------------------------------------------------
+ - Turbulence_threshold:  96.08032158358223
+ - Model training from:  20090000 to  20191004
+ - SAC Training
+ - Training time (SAC):  1.6369632283846538  minutes
+ - SAC Validation from:  20191004 to  20200106
+ - SAC Sharpe Ratio:  -0.3624668677306217
+ - TD3 Training
+ - Training time (TD3):  1.481671142578125  minutes
+ - TD3 Validation from:  20191004 to  20200106
+ - TD3 Sharpe Ratio:  -0.13576542383143117
+ - Trading from:  20200106 to  20200406
+--------------------------------------------------
+previous_total_asset:1364859.6598599213
+end_total_asset:1337761.9388599212
+total_reward:-27097.721000000136
+total_cost:  1343.5779999999997
+total trades:  150
+Sharpe:  -0.3512901791288874
+--------------------------------------------------
+ - Turbulence_threshold:  96.08032158358223
+ - Model training from:  20090000 to  20200106
+ - SAC Training
+ - Training time (SAC):  1.6169606924057007  minutes
+ - SAC Validation from:  20200106 to  20200406
+ - SAC Sharpe Ratio:  -0.3699792285526092
+ - TD3 Training
+ - Training time (TD3):  1.4625171661376952  minutes
+ - TD3 Validation from:  20200106 to  20200406
+ - TD3 Sharpe Ratio:  -0.38920783958866456
+ - Trading from:  20200406 to  20200707
+--------------------------------------------------
+previous_total_asset:1337761.9388599212
+end_total_asset:1341654.0123599214
+total_reward:3892.073500000173
+total_cost:  694.0705
+total trades:  98
+Sharpe:  0.21655310539301523
+Ensemble Strategy took:  54.284395615259804  minutes

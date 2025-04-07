@@ -1,0 +1,32 @@
+        '''
+        AssertionError                            Traceback (most recent call last)
+        ~\AppData\Local\Temp\ipykernel_11888\550864741.py in <module>
+        ----> 1 run_ensemble_strategy_new(df=df, unique_trade_date=unique_trade_date, rebalance_window=rebalance_window, validation_window=validation_window)
+
+        ~\AppData\Local\Temp\ipykernel_11888\3360928807.py in run_ensemble_strategy_new(df, unique_trade_date, rebalance_window, validation_window)
+            46         print(" - Model training from: ", 20090000, "to ", unique_trade_date[i - rebalance_window - validation_window])
+            47         print(" - DQN Training")
+        ---> 48         model_dqn = train_DQN(env_train, model_name="DQN_50k_dow_{}".format(i), timesteps=50000)
+            49         print(" - DQN Validation")
+            50         DRL_validation(model=model_dqn, test_data=validation, test_env=env_val, test_obs=obs_val)
+
+        ~\AppData\Local\Temp\ipykernel_11888\943202866.py in train_DQN(env_train, model_name, timesteps)
+            1 def train_DQN(env_train, model_name, timesteps=25000):
+            2     start = time.time()
+        ----> 3     model = DQN('MlpPolicy', env_train, verbose=0)
+            4     model.learn(total_timesteps=timesteps)
+            5     end = time.time()
+
+        c:\Users\willr\miniconda3\envs\sb_env\lib\site-packages\stable_baselines\deepq\dqn.py in __init__(self, policy, env, gamma, learning_rate, buffer_size, exploration_fraction, exploration_final_eps, exploration_initial_eps, train_freq, batch_size, double_q, learning_starts, target_network_update_freq, prioritized_replay, prioritized_replay_alpha, prioritized_replay_beta0, prioritized_replay_beta_iters, prioritized_replay_eps, param_noise, n_cpu_tf_sess, verbose, tensorboard_log, _init_setup_model, policy_kwargs, full_tensorboard_log, seed)
+            101 
+            102         if _init_setup_model:
+        --> 103             self.setup_model()
+            104 
+            105     def _get_pretrain_placeholders(self):
+        ...
+        --> 113                 "Error: DQN cannot output a gym.spaces.Box action space."
+            114 
+            115             # If the policy is wrap in functool.partial (e.g. to disable dueling)
+
+        AssertionError: Error: DQN cannot output a gym.spaces.Box action space.
+        '''

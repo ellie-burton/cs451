@@ -1,0 +1,446 @@
+--------------------------------------------------
+ - Turbulence_threshold:  171.09407156310158
+ - Model training from:  20090000 to  20151002
+ - A2C Training
+WARNING:tensorflow:From c:\Users\willr\miniconda3\envs\sb_env\lib\site-packages\stable_baselines\common\tf_util.py:191: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+WARNING:tensorflow:From c:\Users\willr\miniconda3\envs\sb_env\lib\site-packages\stable_baselines\common\tf_util.py:200: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From c:\Users\willr\miniconda3\envs\sb_env\lib\site-packages\stable_baselines\common\policies.py:116: The name tf.variable_scope is deprecated. Please use tf.compat.v1.variable_scope instead.
+
+WARNING:tensorflow:From c:\Users\willr\miniconda3\envs\sb_env\lib\site-packages\stable_baselines\common\input.py:25: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+WARNING:tensorflow:From c:\Users\willr\miniconda3\envs\sb_env\lib\site-packages\stable_baselines\common\policies.py:561: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+WARNING:tensorflow:From c:\Users\willr\miniconda3\envs\sb_env\lib\site-packages\tensorflow_core\python\layers\core.py:332: Layer.apply (from tensorflow.python.keras.engine.base_layer) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `layer.__call__` method instead.
+WARNING:tensorflow:From c:\Users\willr\miniconda3\envs\sb_env\lib\site-packages\stable_baselines\common\tf_layers.py:123: The name tf.get_variable is deprecated. Please use tf.compat.v1.get_variable instead.
+
+WARNING:tensorflow:From c:\Users\willr\miniconda3\envs\sb_env\lib\site-packages\stable_baselines\common\distributions.py:418: The name tf.random_normal is deprecated. Please use tf.random.normal instead.
+
+WARNING:tensorflow:From c:\Users\willr\miniconda3\envs\sb_env\lib\site-packages\stable_baselines\a2c\a2c.py:160: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+WARNING:tensorflow:From c:\Users\willr\miniconda3\envs\sb_env\lib\site-packages\stable_baselines\common\tf_util.py:449: The name tf.get_collection is deprecated. Please use tf.compat.v1.get_collection instead.
+
+WARNING:tensorflow:From c:\Users\willr\miniconda3\envs\sb_env\lib\site-packages\stable_baselines\common\tf_util.py:449: The name tf.GraphKeys is deprecated. Please use tf.compat.v1.GraphKeys instead.
+
+WARNING:tensorflow:From c:\Users\willr\miniconda3\envs\sb_env\lib\site-packages\tensorflow_core\python\ops\clip_ops.py:301: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:From c:\Users\willr\miniconda3\envs\sb_env\lib\site-packages\stable_baselines\a2c\a2c.py:184: The name tf.train.RMSPropOptimizer is deprecated. Please use tf.compat.v1.train.RMSPropOptimizer instead.
+
+WARNING:tensorflow:From c:\Users\willr\miniconda3\envs\sb_env\lib\site-packages\tensorflow_core\python\training\rmsprop.py:119: calling Ones.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+WARNING:tensorflow:From c:\Users\willr\miniconda3\envs\sb_env\lib\site-packages\stable_baselines\a2c\a2c.py:194: The name tf.global_variables_initializer is deprecated. Please use tf.compat.v1.global_variables_initializer instead.
+
+WARNING:tensorflow:From c:\Users\willr\miniconda3\envs\sb_env\lib\site-packages\stable_baselines\a2c\a2c.py:196: The name tf.summary.merge_all is deprecated. Please use tf.compat.v1.summary.merge_all instead.
+
+ - Training time (A2C):  0.8930553197860718  minutes
+ - A2C Validation from:  20151002 to  20160104
+ - A2C Sharpe Ratio:  0.0605294524241326
+ - PPO Training
+WARNING:tensorflow:From c:\Users\willr\miniconda3\envs\sb_env\lib\site-packages\stable_baselines\ppo2\ppo2.py:198: The name tf.trainable_variables is deprecated. Please use tf.compat.v1.trainable_variables instead.
+
+WARNING:tensorflow:From c:\Users\willr\miniconda3\envs\sb_env\lib\site-packages\stable_baselines\ppo2\ppo2.py:206: The name tf.train.AdamOptimizer is deprecated. Please use tf.compat.v1.train.AdamOptimizer instead.
+
+ - Training time (PPO):  3.4502811551094057  minutes
+ - PPO Validation from:  20151002 to  20160104
+ - PPO Sharpe Ratio:  0.041161212687261535
+ - DDPG Training
+WARNING:tensorflow:From c:\Users\willr\miniconda3\envs\sb_env\lib\site-packages\stable_baselines\ddpg\policies.py:136: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.Dense instead.
+WARNING:tensorflow:From c:\Users\willr\miniconda3\envs\sb_env\lib\site-packages\stable_baselines\ddpg\ddpg.py:94: The name tf.assign is deprecated. Please use tf.compat.v1.assign instead.
+
+WARNING:tensorflow:From c:\Users\willr\miniconda3\envs\sb_env\lib\site-packages\stable_baselines\ddpg\ddpg.py:444: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+WARNING:tensorflow:From c:\Users\willr\miniconda3\envs\sb_env\lib\site-packages\stable_baselines\common\tf_util.py:432: The name tf.get_default_session is deprecated. Please use tf.compat.v1.get_default_session instead.
+
+ - Training time (DDPG):  0.4557702700297038  minutes
+ - DDPG Validation from:  20151002 to  20160104
+ - Trading from:  20160104 to  20160405
+--------------------------------------------------
+previous_total_asset:1000000
+end_total_asset:1061705.7927371692
+total_reward:61705.79273716919
+total_cost:  3892.2639331684927
+total trades:  1234
+Sharpe:  0.19336218516479747
+--------------------------------------------------
+ - Turbulence_threshold:  96.08032158358223
+ - Model training from:  20090000 to  20160104
+ - A2C Training
+ - Training time (A2C):  0.9397946317990621  minutes
+ - A2C Validation from:  20160104 to  20160405
+ - A2C Sharpe Ratio:  0.1302796897700097
+ - PPO Training
+ - Training time (PPO):  3.0630728721618654  minutes
+ - PPO Validation from:  20160104 to  20160405
+ - PPO Sharpe Ratio:  0.09034012890368977
+ - DDPG Training
+ - Training time (DDPG):  0.4683325926462809  minutes
+ - DDPG Validation from:  20160104 to  20160405
+ - Trading from:  20160405 to  20160705
+--------------------------------------------------
+previous_total_asset:1061705.7927371692
+end_total_asset:1027834.0332132671
+total_reward:-33871.75952390209
+total_cost:  4475.004094604928
+total trades:  1505
+Sharpe:  -0.10212597312592789
+--------------------------------------------------
+ - Turbulence_threshold:  171.09407156310158
+ - Model training from:  20090000 to  20160405
+ - A2C Training
+ - Training time (A2C):  0.882175068060557  minutes
+ - A2C Validation from:  20160405 to  20160705
+ - A2C Sharpe Ratio:  0.02692374959359747
+ - PPO Training
+ - Training time (PPO):  4.089745752016703  minutes
+ - PPO Validation from:  20160405 to  20160705
+ - PPO Sharpe Ratio:  -0.01544848238184867
+ - DDPG Training
+ - Training time (DDPG):  0.654392929871877  minutes
+ - DDPG Validation from:  20160405 to  20160705
+ - Trading from:  20160705 to  20161003
+--------------------------------------------------
+previous_total_asset:1027834.0332132671
+end_total_asset:1046475.5652065036
+total_reward:18641.53199323651
+total_cost:  580.3961247405496
+total trades:  1025
+Sharpe:  0.09457025026949122
+--------------------------------------------------
+ - Turbulence_threshold:  171.09407156310158
+ - Model training from:  20090000 to  20160705
+ - A2C Training
+ - Training time (A2C):  0.9559350887934367  minutes
+ - A2C Validation from:  20160705 to  20161003
+ - A2C Sharpe Ratio:  -0.0068626726363601
+ - PPO Training
+ - Training time (PPO):  3.4951836864153543  minutes
+ - PPO Validation from:  20160705 to  20161003
+ - PPO Sharpe Ratio:  -0.04569879502728464
+ - DDPG Training
+ - Training time (DDPG):  0.4888952294985453  minutes
+ - DDPG Validation from:  20160705 to  20161003
+ - Trading from:  20161003 to  20170103
+--------------------------------------------------
+previous_total_asset:1046475.5652065036
+end_total_asset:1129562.9359116885
+total_reward:83087.37070518488
+total_cost:  3727.257289335566
+total trades:  1290
+Sharpe:  0.5131897778857498
+--------------------------------------------------
+ - Turbulence_threshold:  171.09407156310158
+ - Model training from:  20090000 to  20161003
+ - A2C Training
+ - Training time (A2C):  0.8905986507733663  minutes
+ - A2C Validation from:  20161003 to  20170103
+ - A2C Sharpe Ratio:  0.48392795337056743
+ - PPO Training
+ - Training time (PPO):  3.075076770782471  minutes
+ - PPO Validation from:  20161003 to  20170103
+ - PPO Sharpe Ratio:  0.5875323291006941
+ - DDPG Training
+ - Training time (DDPG):  0.4958859086036682  minutes
+ - DDPG Validation from:  20161003 to  20170103
+ - Trading from:  20170103 to  20170404
+--------------------------------------------------
+previous_total_asset:1129562.9359116885
+end_total_asset:1152410.885475309
+total_reward:22847.949563620612
+total_cost:  3041.089733321215
+total trades:  1173
+Sharpe:  0.15712074249642044
+--------------------------------------------------
+ - Turbulence_threshold:  96.08032158358223
+ - Model training from:  20090000 to  20170103
+ - A2C Training
+ - Training time (A2C):  0.9379154284795125  minutes
+ - A2C Validation from:  20170103 to  20170404
+ - A2C Sharpe Ratio:  0.20751828412816464
+ - PPO Training
+ - Training time (PPO):  3.8558170557022096  minutes
+ - PPO Validation from:  20170103 to  20170404
+ - PPO Sharpe Ratio:  0.2047404430286975
+ - DDPG Training
+ - Training time (DDPG):  0.6346845507621766  minutes
+ - DDPG Validation from:  20170103 to  20170404
+ - Trading from:  20170404 to  20170705
+--------------------------------------------------
+previous_total_asset:1152410.885475309
+end_total_asset:1178932.3105331813
+total_reward:26521.4250578722
+total_cost:  3682.9207183445224
+total trades:  992
+Sharpe:  0.1737163282259548
+--------------------------------------------------
+ - Turbulence_threshold:  171.09407156310158
+ - Model training from:  20090000 to  20170404
+ - A2C Training
+ - Training time (A2C):  0.9231436371803283  minutes
+ - A2C Validation from:  20170404 to  20170705
+ - A2C Sharpe Ratio:  0.15420590471678253
+ - PPO Training
+ - Training time (PPO):  3.388765398661296  minutes
+ - PPO Validation from:  20170404 to  20170705
+ - PPO Sharpe Ratio:  0.1577100744034323
+ - DDPG Training
+ - Training time (DDPG):  0.49804226160049436  minutes
+ - DDPG Validation from:  20170404 to  20170705
+ - Trading from:  20170705 to  20171003
+--------------------------------------------------
+previous_total_asset:1178932.3105331813
+end_total_asset:1205963.544494191
+total_reward:27031.233961009653
+total_cost:  3332.7355672256485
+total trades:  954
+Sharpe:  0.16869820739479335
+--------------------------------------------------
+ - Turbulence_threshold:  171.09407156310158
+ - Model training from:  20090000 to  20170705
+ - A2C Training
+ - Training time (A2C):  0.9342812379201253  minutes
+ - A2C Validation from:  20170705 to  20171003
+ - A2C Sharpe Ratio:  0.26582072794117934
+ - PPO Training
+ - Training time (PPO):  3.192033008734385  minutes
+ - PPO Validation from:  20170705 to  20171003
+ - PPO Sharpe Ratio:  0.2350837292575495
+ - DDPG Training
+ - Training time (DDPG):  0.47428056796391804  minutes
+ - DDPG Validation from:  20170705 to  20171003
+ - Trading from:  20171003 to  20180103
+--------------------------------------------------
+previous_total_asset:1205963.544494191
+end_total_asset:1323462.848857289
+total_reward:117499.304363098
+total_cost:  1690.246334190255
+total trades:  1063
+Sharpe:  0.6319103827085982
+--------------------------------------------------
+ - Turbulence_threshold:  96.08032158358223
+ - Model training from:  20090000 to  20171003
+ - A2C Training
+ - Training time (A2C):  1.1767703612645468  minutes
+ - A2C Validation from:  20171003 to  20180103
+ - A2C Sharpe Ratio:  0.60058954588091
+ - PPO Training
+ - Training time (PPO):  3.2380985021591187  minutes
+ - PPO Validation from:  20171003 to  20180103
+ - PPO Sharpe Ratio:  0.38745256602797346
+ - DDPG Training
+ - Training time (DDPG):  0.5024046103159586  minutes
+ - DDPG Validation from:  20171003 to  20180103
+ - Trading from:  20180103 to  20180405
+--------------------------------------------------
+previous_total_asset:1323462.848857289
+end_total_asset:1344141.9069425096
+total_reward:20679.058085220633
+total_cost:  2172.518119147042
+total trades:  363
+Sharpe:  0.11276613511301112
+--------------------------------------------------
+ - Turbulence_threshold:  96.08032158358223
+ - Model training from:  20090000 to  20180103
+ - A2C Training
+ - Training time (A2C):  1.2957510391871134  minutes
+ - A2C Validation from:  20180103 to  20180405
+ - A2C Sharpe Ratio:  -0.01474135660521354
+ - PPO Training
+ - Training time (PPO):  3.7856744170188903  minutes
+ - PPO Validation from:  20180103 to  20180405
+ - PPO Sharpe Ratio:  0.013035310674267171
+ - DDPG Training
+ - Training time (DDPG):  0.4885287046432495  minutes
+ - DDPG Validation from:  20180103 to  20180405
+ - Trading from:  20180405 to  20180705
+--------------------------------------------------
+previous_total_asset:1344141.9069425096
+end_total_asset:1296896.23887736
+total_reward:-47245.66806514957
+total_cost:  6673.985568705709
+total trades:  1021
+Sharpe:  -0.2109206937691481
+--------------------------------------------------
+ - Turbulence_threshold:  96.08032158358223
+ - Model training from:  20090000 to  20180405
+ - A2C Training
+ - Training time (A2C):  1.035525878270467  minutes
+ - A2C Validation from:  20180405 to  20180705
+ - A2C Sharpe Ratio:  -0.1603591868028151
+ - PPO Training
+ - Training time (PPO):  3.797957781950633  minutes
+ - PPO Validation from:  20180405 to  20180705
+ - PPO Sharpe Ratio:  -0.14277755233095316
+ - DDPG Training
+ - Training time (DDPG):  0.48177566528320315  minutes
+ - DDPG Validation from:  20180405 to  20180705
+ - Trading from:  20180705 to  20181003
+--------------------------------------------------
+previous_total_asset:1296896.23887736
+end_total_asset:1311247.4616656264
+total_reward:14351.222788266372
+total_cost:  4442.075610085968
+total trades:  503
+Sharpe:  0.18358559691317444
+--------------------------------------------------
+ - Turbulence_threshold:  96.08032158358223
+ - Model training from:  20090000 to  20180705
+ - A2C Training
+ - Training time (A2C):  0.9279716928799947  minutes
+ - A2C Validation from:  20180705 to  20181003
+ - A2C Sharpe Ratio:  0.1589314848102178
+ - PPO Training
+ - Training time (PPO):  3.4358166019121805  minutes
+ - PPO Validation from:  20180705 to  20181003
+ - PPO Sharpe Ratio:  0.0817447937197655
+ - DDPG Training
+ - Training time (DDPG):  0.523938798904419  minutes
+ - DDPG Validation from:  20180705 to  20181003
+ - Trading from:  20181003 to  20190104
+--------------------------------------------------
+previous_total_asset:1311247.4616656264
+end_total_asset:1325994.2908630644
+total_reward:14746.829197437968
+total_cost:  1097.5477821234929
+total trades:  135
+Sharpe:  0.2791529889888916
+--------------------------------------------------
+ - Turbulence_threshold:  171.09407156310158
+ - Model training from:  20090000 to  20181003
+ - A2C Training
+ - Training time (A2C):  0.9642818411191304  minutes
+ - A2C Validation from:  20181003 to  20190104
+ - A2C Sharpe Ratio:  -0.3430979917809828
+ - PPO Training
+ - Training time (PPO):  3.2774181962013245  minutes
+ - PPO Validation from:  20181003 to  20190104
+ - PPO Sharpe Ratio:  -0.4110962106987585
+ - DDPG Training
+ - Training time (DDPG):  0.4913601835568746  minutes
+ - DDPG Validation from:  20181003 to  20190104
+ - Trading from:  20190104 to  20190405
+--------------------------------------------------
+previous_total_asset:1325994.2908630644
+end_total_asset:1377105.7415380692
+total_reward:51111.45067500486
+total_cost:  5601.218302564972
+total trades:  1180
+Sharpe:  0.13847573208983738
+--------------------------------------------------
+ - Turbulence_threshold:  96.08032158358223
+ - Model training from:  20090000 to  20190104
+ - A2C Training
+ - Training time (A2C):  0.9400126814842225  minutes
+ - A2C Validation from:  20190104 to  20190405
+ - A2C Sharpe Ratio:  0.13816821481456282
+ - PPO Training
+ - Training time (PPO):  3.249258069197337  minutes
+ - PPO Validation from:  20190104 to  20190405
+ - PPO Sharpe Ratio:  0.07317009940443614
+ - DDPG Training
+ - Training time (DDPG):  0.49068370660146077  minutes
+ - DDPG Validation from:  20190104 to  20190405
+ - Trading from:  20190405 to  20190708
+--------------------------------------------------
+previous_total_asset:1377105.7415380692
+end_total_asset:1381530.2222050587
+total_reward:4424.480666989461
+total_cost:  1400.2710810588926
+total trades:  129
+Sharpe:  0.17889045678022913
+--------------------------------------------------
+ - Turbulence_threshold:  96.08032158358223
+ - Model training from:  20090000 to  20190405
+ - A2C Training
+ - Training time (A2C):  0.9639249483744303  minutes
+ - A2C Validation from:  20190405 to  20190708
+ - A2C Sharpe Ratio:  0.5257950613767768
+ - PPO Training
+ - Training time (PPO):  3.300584165255229  minutes
+ - PPO Validation from:  20190405 to  20190708
+ - PPO Sharpe Ratio:  0.260558888092316
+ - DDPG Training
+ - Training time (DDPG):  0.5295516649881998  minutes
+ - DDPG Validation from:  20190405 to  20190708
+ - Trading from:  20190708 to  20191004
+--------------------------------------------------
+previous_total_asset:1381530.2222050587
+end_total_asset:1392759.1856597045
+total_reward:11228.963454645826
+total_cost:  2078.305762335421
+total trades:  321
+Sharpe:  0.11870346449264361
+--------------------------------------------------
+ - Turbulence_threshold:  96.08032158358223
+ - Model training from:  20090000 to  20190708
+ - A2C Training
+ - Training time (A2C):  1.0151594122250875  minutes
+ - A2C Validation from:  20190708 to  20191004
+ - A2C Sharpe Ratio:  -0.10676179268624542
+ - PPO Training
+ - Training time (PPO):  3.3464426676432293  minutes
+ - PPO Validation from:  20190708 to  20191004
+ - PPO Sharpe Ratio:  -0.027435980182583607
+ - DDPG Training
+ - Training time (DDPG):  0.5017219742139181  minutes
+ - DDPG Validation from:  20190708 to  20191004
+ - Trading from:  20191004 to  20200106
+--------------------------------------------------
+previous_total_asset:1392759.1856597045
+end_total_asset:1391903.1043775436
+total_reward:-856.0812821609434
+total_cost:  513.8941620693207
+total trades:  68
+Sharpe:  -0.3407583330798236
+--------------------------------------------------
+ - Turbulence_threshold:  96.08032158358223
+ - Model training from:  20090000 to  20191004
+ - A2C Training
+ - Training time (A2C):  1.0062557419141134  minutes
+ - A2C Validation from:  20191004 to  20200106
+ - A2C Sharpe Ratio:  -0.35751065897380285
+ - PPO Training
+ - Training time (PPO):  3.4010780572891237  minutes
+ - PPO Validation from:  20191004 to  20200106
+ - PPO Sharpe Ratio:  -0.03492448849528441
+ - DDPG Training
+ - Training time (DDPG):  0.4907380104064941  minutes
+ - DDPG Validation from:  20191004 to  20200106
+ - Trading from:  20200106 to  20200406
+--------------------------------------------------
+previous_total_asset:1391903.1043775436
+end_total_asset:1379724.3746251082
+total_reward:-12178.729752435349
+total_cost:  786.5165627388785
+total trades:  156
+Sharpe:  -0.39172543921489905
+--------------------------------------------------
+ - Turbulence_threshold:  96.08032158358223
+ - Model training from:  20090000 to  20200106
+ - A2C Training
+ - Training time (A2C):  0.956163247426351  minutes
+ - A2C Validation from:  20200106 to  20200406
+ - A2C Sharpe Ratio:  -0.40513692876552143
+ - PPO Training
+ - Training time (PPO):  3.4496540784835816  minutes
+ - PPO Validation from:  20200106 to  20200406
+ - PPO Sharpe Ratio:  -0.39407924927261495
+ - DDPG Training
+ - Training time (DDPG):  0.4959988753000895  minutes
+ - DDPG Validation from:  20200106 to  20200406
+ - Trading from:  20200406 to  20200707
+--------------------------------------------------
+previous_total_asset:1379724.3746251082
+end_total_asset:1384755.0960574269
+total_reward:5030.721432318678
+total_cost:  595.6346508163069
+total trades:  101
+Sharpe:  0.270313728965662
+Ensemble Strategy took:  88.8871068318685  minutes
