@@ -1,0 +1,271 @@
+--------------------------------------------------
+ - Turbulence_threshold:  171.09407156310158
+ - Model training from:  20090000 to  20151002
+ - A2C Training
+ - Training time (A2C):  1.253728727499644  minutes
+ - A2C Validation from:  20151002 to  20160104
+ - A2C Sharpe Ratio:  0.012806212433986608
+ - Trading from:  20160104 to  20160405
+--------------------------------------------------
+previous_total_asset:1000000
+end_total_asset:1059335.8341400342
+total_reward:59335.83414003416
+total_cost:  4368.7422587062
+total trades:  1456
+Sharpe:  0.19581729684435253
+--------------------------------------------------
+ - Turbulence_threshold:  96.08032158358223
+ - Model training from:  20090000 to  20160104
+ - A2C Training
+ - Training time (A2C):  2.824491242567698  minutes
+ - A2C Validation from:  20160104 to  20160405
+ - A2C Sharpe Ratio:  0.21363374539632812
+ - Trading from:  20160405 to  20160705
+--------------------------------------------------
+previous_total_asset:1059335.8341400342
+end_total_asset:1100538.014982359
+total_reward:41202.18084232486
+total_cost:  6097.118760408079
+total trades:  1386
+Sharpe:  0.17321137273787424
+--------------------------------------------------
+ - Turbulence_threshold:  171.09407156310158
+ - Model training from:  20090000 to  20160405
+ - A2C Training
+ - Training time (A2C):  2.7450753887494406  minutes
+ - A2C Validation from:  20160405 to  20160705
+ - A2C Sharpe Ratio:  0.11447049829835196
+ - Trading from:  20160705 to  20161003
+--------------------------------------------------
+previous_total_asset:1100538.014982359
+end_total_asset:1089124.3216326472
+total_reward:-11413.69334971183
+total_cost:  2042.0148675072105
+total trades:  1218
+Sharpe:  -0.04494789480691039
+--------------------------------------------------
+ - Turbulence_threshold:  171.09407156310158
+ - Model training from:  20090000 to  20160705
+ - A2C Training
+ - Training time (A2C):  1.1794536590576172  minutes
+ - A2C Validation from:  20160705 to  20161003
+ - A2C Sharpe Ratio:  0.02040440234629556
+ - Trading from:  20161003 to  20170103
+--------------------------------------------------
+previous_total_asset:1089124.3216326472
+end_total_asset:1144158.897580025
+total_reward:55034.57594737783
+total_cost:  4651.736489707134
+total trades:  1483
+Sharpe:  0.2748768455635501
+--------------------------------------------------
+ - Turbulence_threshold:  171.09407156310158
+ - Model training from:  20090000 to  20161003
+ - A2C Training
+ - Training time (A2C):  1.01000927289327  minutes
+ - A2C Validation from:  20161003 to  20170103
+ - A2C Sharpe Ratio:  0.27267425355576674
+ - Trading from:  20170103 to  20170404
+--------------------------------------------------
+previous_total_asset:1144158.897580025
+end_total_asset:1145170.819413328
+total_reward:1011.9218333030585
+total_cost:  2179.6684697851415
+total trades:  1206
+Sharpe:  0.010589658549174713
+--------------------------------------------------
+ - Turbulence_threshold:  96.08032158358223
+ - Model training from:  20090000 to  20170103
+ - A2C Training
+ - Training time (A2C):  1.034466544787089  minutes
+ - A2C Validation from:  20170103 to  20170404
+ - A2C Sharpe Ratio:  0.18235132588851802
+ - Trading from:  20170404 to  20170705
+--------------------------------------------------
+previous_total_asset:1145170.819413328
+end_total_asset:1178255.4078551882
+total_reward:33084.58844186016
+total_cost:  6193.6087012359185
+total trades:  1274
+Sharpe:  0.2726476357439106
+--------------------------------------------------
+ - Turbulence_threshold:  171.09407156310158
+ - Model training from:  20090000 to  20170404
+ - A2C Training
+ - Training time (A2C):  0.9974902828534444  minutes
+ - A2C Validation from:  20170404 to  20170705
+ - A2C Sharpe Ratio:  0.23640926038795843
+ - Trading from:  20170705 to  20171003
+--------------------------------------------------
+previous_total_asset:1178255.4078551882
+end_total_asset:1265908.8893056754
+total_reward:87653.48145048716
+total_cost:  8974.427080408483
+total trades:  1635
+Sharpe:  0.47856711457833034
+--------------------------------------------------
+ - Turbulence_threshold:  171.09407156310158
+ - Model training from:  20090000 to  20170705
+ - A2C Training
+ - Training time (A2C):  1.0202901363372803  minutes
+ - A2C Validation from:  20170705 to  20171003
+ - A2C Sharpe Ratio:  0.08079734582553906
+ - Trading from:  20171003 to  20180103
+--------------------------------------------------
+previous_total_asset:1265908.8893056754
+end_total_asset:1371773.1241182284
+total_reward:105864.23481255304
+total_cost:  5125.436493172875
+total trades:  1569
+Sharpe:  0.7386729123615845
+--------------------------------------------------
+ - Turbulence_threshold:  96.08032158358223
+ - Model training from:  20090000 to  20171003
+ - A2C Training
+ - Training time (A2C):  1.0405513167381286  minutes
+ - A2C Validation from:  20171003 to  20180103
+ - A2C Sharpe Ratio:  0.17061492580440235
+ - Trading from:  20180103 to  20180405
+--------------------------------------------------
+previous_total_asset:1371773.1241182284
+end_total_asset:1398950.3088498367
+total_reward:27177.184731608257
+total_cost:  1903.748103441076
+total trades:  353
+Sharpe:  0.21406367262058104
+--------------------------------------------------
+ - Turbulence_threshold:  96.08032158358223
+ - Model training from:  20090000 to  20180103
+ - A2C Training
+ - Training time (A2C):  0.9953473885854085  minutes
+ - A2C Validation from:  20180103 to  20180405
+ - A2C Sharpe Ratio:  0.00018070299850850137
+ - Trading from:  20180405 to  20180705
+--------------------------------------------------
+previous_total_asset:1398950.3088498367
+end_total_asset:1351951.5666890652
+total_reward:-46998.74216077151
+total_cost:  6720.304107298069
+total trades:  1044
+Sharpe:  -0.2458459666154328
+--------------------------------------------------
+ - Turbulence_threshold:  96.08032158358223
+ - Model training from:  20090000 to  20180405
+ - A2C Training
+ - Training time (A2C):  1.000807269414266  minutes
+ - A2C Validation from:  20180405 to  20180705
+ - A2C Sharpe Ratio:  0.0021090293351465708
+ - Trading from:  20180705 to  20181003
+--------------------------------------------------
+previous_total_asset:1351951.5666890652
+end_total_asset:1363964.1899386207
+total_reward:12012.623249555472
+total_cost:  6330.3453500089745
+total trades:  973
+Sharpe:  0.171389993007167
+--------------------------------------------------
+ - Turbulence_threshold:  96.08032158358223
+ - Model training from:  20090000 to  20180705
+ - A2C Training
+ - Training time (A2C):  1.0077008088429769  minutes
+ - A2C Validation from:  20180705 to  20181003
+ - A2C Sharpe Ratio:  0.11049610669894719
+ - Trading from:  20181003 to  20190104
+--------------------------------------------------
+previous_total_asset:1363964.1899386207
+end_total_asset:1371149.115845297
+total_reward:7184.925906676333
+total_cost:  775.9281538609093
+total trades:  177
+Sharpe:  0.2604765719081027
+--------------------------------------------------
+ - Turbulence_threshold:  171.09407156310158
+ - Model training from:  20090000 to  20181003
+ - A2C Training
+ - Training time (A2C):  1.0008514682451883  minutes
+ - A2C Validation from:  20181003 to  20190104
+ - A2C Sharpe Ratio:  -0.3254381143367486
+ - Trading from:  20190104 to  20190405
+--------------------------------------------------
+previous_total_asset:1371149.115845297
+end_total_asset:1475148.490230917
+total_reward:103999.37438562
+total_cost:  4917.987307052535
+total trades:  1137
+Sharpe:  0.33174907983413954
+--------------------------------------------------
+ - Turbulence_threshold:  96.08032158358223
+ - Model training from:  20090000 to  20190104
+ - A2C Training
+ - Training time (A2C):  1.0150077184041342  minutes
+ - A2C Validation from:  20190104 to  20190405
+ - A2C Sharpe Ratio:  -0.057209608688874924
+ - Trading from:  20190405 to  20190708
+--------------------------------------------------
+previous_total_asset:1475148.490230917
+end_total_asset:1479118.540646858
+total_reward:3970.0504159410484
+total_cost:  1167.8856052781891
+total trades:  170
+Sharpe:  0.24410722332692364
+--------------------------------------------------
+ - Turbulence_threshold:  96.08032158358223
+ - Model training from:  20090000 to  20190405
+ - A2C Training
+ - Training time (A2C):  1.025445024172465  minutes
+ - A2C Validation from:  20190405 to  20190708
+ - A2C Sharpe Ratio:  0.34529926033178776
+ - Trading from:  20190708 to  20191004
+--------------------------------------------------
+previous_total_asset:1479118.540646858
+end_total_asset:1477195.1129363277
+total_reward:-1923.4277105303481
+total_cost:  1768.7877442326162
+total trades:  314
+Sharpe:  -0.0523184566795158
+--------------------------------------------------
+ - Turbulence_threshold:  96.08032158358223
+ - Model training from:  20090000 to  20190708
+ - A2C Training
+ - Training time (A2C):  1.0312626361846924  minutes
+ - A2C Validation from:  20190708 to  20191004
+ - A2C Sharpe Ratio:  -0.005372002588909421
+ - Trading from:  20191004 to  20200106
+--------------------------------------------------
+previous_total_asset:1477195.1129363277
+end_total_asset:1476201.0379271177
+total_reward:-994.0750092100352
+total_cost:  284.7196559606122
+total trades:  70
+Sharpe:  -0.32072055744923733
+--------------------------------------------------
+ - Turbulence_threshold:  96.08032158358223
+ - Model training from:  20090000 to  20191004
+ - A2C Training
+ - Training time (A2C):  1.0327062010765076  minutes
+ - A2C Validation from:  20191004 to  20200106
+ - A2C Sharpe Ratio:  -0.41019996584359897
+ - Trading from:  20200106 to  20200406
+--------------------------------------------------
+previous_total_asset:1476201.0379271177
+end_total_asset:1456135.6042760538
+total_reward:-20065.433651063824
+total_cost:  971.4451047719512
+total trades:  154
+Sharpe:  -0.4112948467572304
+--------------------------------------------------
+ - Turbulence_threshold:  96.08032158358223
+ - Model training from:  20090000 to  20200106
+ - A2C Training
+ - Training time (A2C):  1.0387340744336446  minutes
+ - A2C Validation from:  20200106 to  20200406
+ - A2C Sharpe Ratio:  -0.3758116630087499
+ - Trading from:  20200406 to  20200707
+--------------------------------------------------
+previous_total_asset:1456135.6042760538
+end_total_asset:1456393.9000445982
+total_reward:258.2957685443107
+total_cost:  383.44049011393554
+total trades:  97
+Sharpe:  0.03410667836277596
+A2C Strategy took:  22.388082003593446  minutes
