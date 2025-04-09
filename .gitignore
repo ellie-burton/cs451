@@ -179,4 +179,4 @@ cython_debug/
 
 #output
 /working
-/working_ours
+/all_tests
