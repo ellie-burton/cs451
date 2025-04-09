@@ -1,0 +1,271 @@
+--------------------------------------------------
+ - Turbulence_threshold:  171.09407156310158
+ - Model training from:  20090000 to  20151002
+ - DDPG Training
+ - Training time (DDPG):  0.49127381245295204  minutes
+ - DDPG Validation from:  20151002 to  20160104
+ - DDPG Sharpe Ratio:  -0.022949790132500977
+ - Trading from:  20160104 to  20160405
+--------------------------------------------------
+previous_total_asset:1000000
+end_total_asset:1087838.3974220427
+total_reward:87838.39742204268
+total_cost:  1263.5199797485827
+total trades:  614
+Sharpe:  0.24626882699080646
+--------------------------------------------------
+ - Turbulence_threshold:  96.08032158358223
+ - Model training from:  20090000 to  20160104
+ - DDPG Training
+ - Training time (DDPG):  0.48677930037180583  minutes
+ - DDPG Validation from:  20160104 to  20160405
+ - DDPG Sharpe Ratio:  -0.0009580415677292225
+ - Trading from:  20160405 to  20160705
+--------------------------------------------------
+previous_total_asset:1087838.3974220427
+end_total_asset:1060816.1229146663
+total_reward:-27022.274507376365
+total_cost:  1735.354613832899
+total trades:  709
+Sharpe:  -0.06116620230987619
+--------------------------------------------------
+ - Turbulence_threshold:  171.09407156310158
+ - Model training from:  20090000 to  20160405
+ - DDPG Training
+ - Training time (DDPG):  0.5057465632756551  minutes
+ - DDPG Validation from:  20160405 to  20160705
+ - DDPG Sharpe Ratio:  0.12354199196719107
+ - Trading from:  20160705 to  20161003
+--------------------------------------------------
+previous_total_asset:1060816.1229146663
+end_total_asset:1090471.0556113627
+total_reward:29654.93269669637
+total_cost:  720.2810874972919
+total trades:  1052
+Sharpe:  0.11985893621893072
+--------------------------------------------------
+ - Turbulence_threshold:  171.09407156310158
+ - Model training from:  20090000 to  20160705
+ - DDPG Training
+ - Training time (DDPG):  0.5231726884841919  minutes
+ - DDPG Validation from:  20160705 to  20161003
+ - DDPG Sharpe Ratio:  -0.18404285271812995
+ - Trading from:  20161003 to  20170103
+--------------------------------------------------
+previous_total_asset:1090471.0556113627
+end_total_asset:1225838.830124174
+total_reward:135367.77451281133
+total_cost:  1778.4553584931944
+total trades:  1081
+Sharpe:  0.5887593721799421
+--------------------------------------------------
+ - Turbulence_threshold:  171.09407156310158
+ - Model training from:  20090000 to  20161003
+ - DDPG Training
+ - Training time (DDPG):  0.5127113660176595  minutes
+ - DDPG Validation from:  20161003 to  20170103
+ - DDPG Sharpe Ratio:  0.6067515994947491
+ - Trading from:  20170103 to  20170404
+--------------------------------------------------
+previous_total_asset:1225838.830124174
+end_total_asset:1248056.2958349544
+total_reward:22217.46571078035
+total_cost:  2199.8181047135445
+total trades:  1110
+Sharpe:  0.10506553707534409
+--------------------------------------------------
+ - Turbulence_threshold:  96.08032158358223
+ - Model training from:  20090000 to  20170103
+ - DDPG Training
+ - Training time (DDPG):  0.5197319825490315  minutes
+ - DDPG Validation from:  20170103 to  20170404
+ - DDPG Sharpe Ratio:  0.5199284268257167
+ - Trading from:  20170404 to  20170705
+--------------------------------------------------
+previous_total_asset:1248056.2958349544
+end_total_asset:1285058.4808053474
+total_reward:37002.18497039308
+total_cost:  3453.8862194996864
+total trades:  957
+Sharpe:  0.2548225971460972
+--------------------------------------------------
+ - Turbulence_threshold:  171.09407156310158
+ - Model training from:  20090000 to  20170404
+ - DDPG Training
+ - Training time (DDPG):  0.5203472733497619  minutes
+ - DDPG Validation from:  20170404 to  20170705
+ - DDPG Sharpe Ratio:  0.22235406739162197
+ - Trading from:  20170705 to  20171003
+--------------------------------------------------
+previous_total_asset:1285058.4808053474
+end_total_asset:1315586.1693143223
+total_reward:30527.688508974854
+total_cost:  2740.987255720563
+total trades:  1062
+Sharpe:  0.17947468349230722
+--------------------------------------------------
+ - Turbulence_threshold:  171.09407156310158
+ - Model training from:  20090000 to  20170705
+ - DDPG Training
+ - Training time (DDPG):  0.5317955493927002  minutes
+ - DDPG Validation from:  20170705 to  20171003
+ - DDPG Sharpe Ratio:  0.3143547164187303
+ - Trading from:  20171003 to  20180103
+--------------------------------------------------
+previous_total_asset:1315586.1693143223
+end_total_asset:1482107.9408819033
+total_reward:166521.771567581
+total_cost:  1941.717305686931
+total trades:  807
+Sharpe:  0.8043868786022077
+--------------------------------------------------
+ - Turbulence_threshold:  96.08032158358223
+ - Model training from:  20090000 to  20171003
+ - DDPG Training
+ - Training time (DDPG):  0.5211214264233907  minutes
+ - DDPG Validation from:  20171003 to  20180103
+ - DDPG Sharpe Ratio:  0.4287320122066053
+ - Trading from:  20180103 to  20180405
+--------------------------------------------------
+previous_total_asset:1482107.9408819033
+end_total_asset:1522620.4643265386
+total_reward:40512.52344463533
+total_cost:  2036.1523489205272
+total trades:  216
+Sharpe:  0.18136395600733052
+--------------------------------------------------
+ - Turbulence_threshold:  96.08032158358223
+ - Model training from:  20090000 to  20180103
+ - DDPG Training
+ - Training time (DDPG):  0.6514056007067363  minutes
+ - DDPG Validation from:  20180103 to  20180405
+ - DDPG Sharpe Ratio:  -0.025285708380577056
+ - Trading from:  20180405 to  20180705
+--------------------------------------------------
+previous_total_asset:1522620.4643265386
+end_total_asset:1541513.0470279695
+total_reward:18892.58270143089
+total_cost:  3159.3672308105083
+total trades:  715
+Sharpe:  0.06651107319486108
+--------------------------------------------------
+ - Turbulence_threshold:  96.08032158358223
+ - Model training from:  20090000 to  20180405
+ - DDPG Training
+ - Training time (DDPG):  0.6083440542221069  minutes
+ - DDPG Validation from:  20180405 to  20180705
+ - DDPG Sharpe Ratio:  0.17927162996885035
+ - Trading from:  20180705 to  20181003
+--------------------------------------------------
+previous_total_asset:1541513.0470279695
+end_total_asset:1577871.6223943017
+total_reward:36358.575366332196
+total_cost:  4670.773522216444
+total trades:  536
+Sharpe:  0.31268191671920287
+--------------------------------------------------
+ - Turbulence_threshold:  96.08032158358223
+ - Model training from:  20090000 to  20180705
+ - DDPG Training
+ - Training time (DDPG):  0.6155606706937155  minutes
+ - DDPG Validation from:  20180705 to  20181003
+ - DDPG Sharpe Ratio:  0.17153925223003844
+ - Trading from:  20181003 to  20190104
+--------------------------------------------------
+previous_total_asset:1577871.6223943017
+end_total_asset:1589086.3560633026
+total_reward:11214.73366900091
+total_cost:  1369.0468661515176
+total trades:  152
+Sharpe:  0.14718883251018422
+--------------------------------------------------
+ - Turbulence_threshold:  171.09407156310158
+ - Model training from:  20090000 to  20181003
+ - DDPG Training
+ - Training time (DDPG):  0.619461194674174  minutes
+ - DDPG Validation from:  20181003 to  20190104
+ - DDPG Sharpe Ratio:  -0.3552655055566505
+ - Trading from:  20190104 to  20190405
+--------------------------------------------------
+previous_total_asset:1589086.3560633026
+end_total_asset:1565417.7561055343
+total_reward:-23668.59995776834
+total_cost:  3519.7002012851835
+total trades:  1166
+Sharpe:  -0.013348468747135906
+--------------------------------------------------
+ - Turbulence_threshold:  96.08032158358223
+ - Model training from:  20090000 to  20190104
+ - DDPG Training
+ - Training time (DDPG):  42.326098497708635  minutes
+ - DDPG Validation from:  20190104 to  20190405
+ - DDPG Sharpe Ratio:  0.08596169671992866
+ - Trading from:  20190405 to  20190708
+--------------------------------------------------
+previous_total_asset:1565417.7561055343
+end_total_asset:1571449.5825414432
+total_reward:6031.826435908908
+total_cost:  1075.7824445611575
+total trades:  106
+Sharpe:  0.1963629205588974
+--------------------------------------------------
+ - Turbulence_threshold:  96.08032158358223
+ - Model training from:  20090000 to  20190405
+ - DDPG Training
+ - Training time (DDPG):  0.5519924402236939  minutes
+ - DDPG Validation from:  20190405 to  20190708
+ - DDPG Sharpe Ratio:  0.28339376602712596
+ - Trading from:  20190708 to  20191004
+--------------------------------------------------
+previous_total_asset:1571449.5825414432
+end_total_asset:1568440.7568613435
+total_reward:-3008.8256800996605
+total_cost:  2117.5096307632016
+total trades:  250
+Sharpe:  -0.05662051401739093
+--------------------------------------------------
+ - Turbulence_threshold:  96.08032158358223
+ - Model training from:  20090000 to  20190708
+ - DDPG Training
+ - Training time (DDPG):  0.5729690551757812  minutes
+ - DDPG Validation from:  20190708 to  20191004
+ - DDPG Sharpe Ratio:  -0.011772928018477407
+ - Trading from:  20191004 to  20200106
+--------------------------------------------------
+previous_total_asset:1568440.7568613435
+end_total_asset:1569022.6144972318
+total_reward:581.857635888271
+total_cost:  244.4003614527893
+total trades:  48
+Sharpe:  0.11187989304120219
+--------------------------------------------------
+ - Turbulence_threshold:  96.08032158358223
+ - Model training from:  20090000 to  20191004
+ - DDPG Training
+ - Training time (DDPG):  0.5660956819852193  minutes
+ - DDPG Validation from:  20191004 to  20200106
+ - DDPG Sharpe Ratio:  -0.3751868820661148
+ - Trading from:  20200106 to  20200406
+--------------------------------------------------
+previous_total_asset:1569022.6144972318
+end_total_asset:1549507.2697522754
+total_reward:-19515.344744956354
+total_cost:  981.6753884419918
+total trades:  151
+Sharpe:  -0.43068584562278533
+--------------------------------------------------
+ - Turbulence_threshold:  96.08032158358223
+ - Model training from:  20090000 to  20200106
+ - DDPG Training
+ - Training time (DDPG):  0.5790685574213664  minutes
+ - DDPG Validation from:  20200106 to  20200406
+ - DDPG Sharpe Ratio:  -0.38495609884641374
+ - Trading from:  20200406 to  20200707
+--------------------------------------------------
+previous_total_asset:1549507.2697522754
+end_total_asset:1552380.7402522787
+total_reward:2873.4705000033136
+total_cost:  674.774142339363
+total trades:  107
+Sharpe:  0.16108421263450604
+DDPG Strategy took:  51.837209177017215  minutes

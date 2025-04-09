@@ -1,0 +1,271 @@
+--------------------------------------------------
+ - Turbulence_threshold:  171.09407156310158
+ - Model training from:  20090000 to  20151002
+ - PPO Training
+ - Training time (PPO):  3.1259528915087382  minutes
+ - PPO Validation from:  20151002 to  20160104
+ - PPO Sharpe Ratio:  0.0031336893879767556
+ - Trading from:  20160104 to  20160405
+--------------------------------------------------
+previous_total_asset:1000000
+end_total_asset:1082664.5934531197
+total_reward:82664.59345311974
+total_cost:  5277.811792154926
+total trades:  1379
+Sharpe:  0.3160765849955953
+--------------------------------------------------
+ - Turbulence_threshold:  96.08032158358223
+ - Model training from:  20090000 to  20160104
+ - PPO Training
+ - Training time (PPO):  3.2428390264511107  minutes
+ - PPO Validation from:  20160104 to  20160405
+ - PPO Sharpe Ratio:  0.006890802775974063
+ - Trading from:  20160405 to  20160705
+--------------------------------------------------
+previous_total_asset:1082664.5934531197
+end_total_asset:1046475.9347600612
+total_reward:-36188.65869305853
+total_cost:  4812.1951698457015
+total trades:  1371
+Sharpe:  -0.11677813782280697
+--------------------------------------------------
+ - Turbulence_threshold:  171.09407156310158
+ - Model training from:  20090000 to  20160405
+ - PPO Training
+ - Training time (PPO):  3.277379616101583  minutes
+ - PPO Validation from:  20160405 to  20160705
+ - PPO Sharpe Ratio:  0.014637587724390664
+ - Trading from:  20160705 to  20161003
+--------------------------------------------------
+previous_total_asset:1046475.9347600612
+end_total_asset:1086558.3645639
+total_reward:40082.42980383884
+total_cost:  5596.2989561459635
+total trades:  1495
+Sharpe:  0.17873419164407361
+--------------------------------------------------
+ - Turbulence_threshold:  171.09407156310158
+ - Model training from:  20090000 to  20160705
+ - PPO Training
+ - Training time (PPO):  3.291174062093099  minutes
+ - PPO Validation from:  20160705 to  20161003
+ - PPO Sharpe Ratio:  0.03221948517633894
+ - Trading from:  20161003 to  20170103
+--------------------------------------------------
+previous_total_asset:1086558.3645639
+end_total_asset:1162652.3267759227
+total_reward:76093.96221202263
+total_cost:  2537.7660434031645
+total trades:  1286
+Sharpe:  0.38204058673591934
+--------------------------------------------------
+ - Turbulence_threshold:  171.09407156310158
+ - Model training from:  20090000 to  20161003
+ - PPO Training
+ - Training time (PPO):  3.314630659421285  minutes
+ - PPO Validation from:  20161003 to  20170103
+ - PPO Sharpe Ratio:  0.4809989915861936
+ - Trading from:  20170103 to  20170404
+--------------------------------------------------
+previous_total_asset:1162652.3267759227
+end_total_asset:1197565.6246248323
+total_reward:34913.29784890963
+total_cost:  3811.26677679614
+total trades:  1356
+Sharpe:  0.15772863507811918
+--------------------------------------------------
+ - Turbulence_threshold:  96.08032158358223
+ - Model training from:  20090000 to  20170103
+ - PPO Training
+ - Training time (PPO):  3.297233847777049  minutes
+ - PPO Validation from:  20170103 to  20170404
+ - PPO Sharpe Ratio:  0.4379220613802391
+ - Trading from:  20170404 to  20170705
+--------------------------------------------------
+previous_total_asset:1197565.6246248323
+end_total_asset:1219056.3121250204
+total_reward:21490.687500188127
+total_cost:  5644.1498860968995
+total trades:  1167
+Sharpe:  0.1477112455277392
+--------------------------------------------------
+ - Turbulence_threshold:  171.09407156310158
+ - Model training from:  20090000 to  20170404
+ - PPO Training
+ - Training time (PPO):  3.3478524327278136  minutes
+ - PPO Validation from:  20170404 to  20170705
+ - PPO Sharpe Ratio:  0.3159694077126126
+ - Trading from:  20170705 to  20171003
+--------------------------------------------------
+previous_total_asset:1219056.3121250204
+end_total_asset:1245649.9111726861
+total_reward:26593.599047665717
+total_cost:  8270.448036400976
+total trades:  1506
+Sharpe:  0.18604866893195224
+--------------------------------------------------
+ - Turbulence_threshold:  171.09407156310158
+ - Model training from:  20090000 to  20170705
+ - PPO Training
+ - Training time (PPO):  3.3586754480997723  minutes
+ - PPO Validation from:  20170705 to  20171003
+ - PPO Sharpe Ratio:  0.09336864632666345
+ - Trading from:  20171003 to  20180103
+--------------------------------------------------
+previous_total_asset:1245649.9111726861
+end_total_asset:1349317.432692529
+total_reward:103667.52151984279
+total_cost:  8272.334971450522
+total trades:  1596
+Sharpe:  0.5744915571600165
+--------------------------------------------------
+ - Turbulence_threshold:  96.08032158358223
+ - Model training from:  20090000 to  20171003
+ - PPO Training
+ - Training time (PPO):  3.3370216290156045  minutes
+ - PPO Validation from:  20171003 to  20180103
+ - PPO Sharpe Ratio:  0.4844236246027877
+ - Trading from:  20180103 to  20180405
+--------------------------------------------------
+previous_total_asset:1349317.432692529
+end_total_asset:1373645.7269045226
+total_reward:24328.294211993692
+total_cost:  2587.8568045278566
+total trades:  383
+Sharpe:  0.13124198526083386
+--------------------------------------------------
+ - Turbulence_threshold:  96.08032158358223
+ - Model training from:  20090000 to  20180103
+ - PPO Training
+ - Training time (PPO):  3.370074431101481  minutes
+ - PPO Validation from:  20180103 to  20180405
+ - PPO Sharpe Ratio:  0.007848752011157725
+ - Trading from:  20180405 to  20180705
+--------------------------------------------------
+previous_total_asset:1373645.7269045226
+end_total_asset:1371847.7844413603
+total_reward:-1797.9424631623551
+total_cost:  6906.965273839124
+total trades:  1074
+Sharpe:  -0.0019069218412103783
+--------------------------------------------------
+ - Turbulence_threshold:  96.08032158358223
+ - Model training from:  20090000 to  20180405
+ - PPO Training
+ - Training time (PPO):  3.3661951224009194  minutes
+ - PPO Validation from:  20180405 to  20180705
+ - PPO Sharpe Ratio:  -0.03935125734793043
+ - Trading from:  20180705 to  20181003
+--------------------------------------------------
+previous_total_asset:1371847.7844413603
+end_total_asset:1394440.6936602741
+total_reward:22592.909218913876
+total_cost:  5594.340273017777
+total trades:  889
+Sharpe:  0.2382927708088126
+--------------------------------------------------
+ - Turbulence_threshold:  96.08032158358223
+ - Model training from:  20090000 to  20180705
+ - PPO Training
+ - Training time (PPO):  3.4636390527089436  minutes
+ - PPO Validation from:  20180705 to  20181003
+ - PPO Sharpe Ratio:  0.1088194910400448
+ - Trading from:  20181003 to  20190104
+--------------------------------------------------
+previous_total_asset:1394440.6936602741
+end_total_asset:1398281.71142694
+total_reward:3841.0177666659
+total_cost:  633.499727937967
+total trades:  139
+Sharpe:  0.1775239105845042
+--------------------------------------------------
+ - Turbulence_threshold:  171.09407156310158
+ - Model training from:  20090000 to  20181003
+ - PPO Training
+ - Training time (PPO):  3.480057426293691  minutes
+ - PPO Validation from:  20181003 to  20190104
+ - PPO Sharpe Ratio:  -0.4095779227395506
+ - Trading from:  20190104 to  20190405
+--------------------------------------------------
+previous_total_asset:1398281.71142694
+end_total_asset:1456271.484572064
+total_reward:57989.77314512385
+total_cost:  5992.323400517667
+total trades:  1362
+Sharpe:  0.1925882802550712
+--------------------------------------------------
+ - Turbulence_threshold:  96.08032158358223
+ - Model training from:  20090000 to  20190104
+ - PPO Training
+ - Training time (PPO):  3.445944094657898  minutes
+ - PPO Validation from:  20190104 to  20190405
+ - PPO Sharpe Ratio:  0.043489997121122885
+ - Trading from:  20190405 to  20190708
+--------------------------------------------------
+previous_total_asset:1456271.484572064
+end_total_asset:1458406.535958571
+total_reward:2135.051386506995
+total_cost:  1043.7625133687854
+total trades:  138
+Sharpe:  0.17768102518788037
+--------------------------------------------------
+ - Turbulence_threshold:  96.08032158358223
+ - Model training from:  20090000 to  20190405
+ - PPO Training
+ - Training time (PPO):  3.4580403447151182  minutes
+ - PPO Validation from:  20190405 to  20190708
+ - PPO Sharpe Ratio:  0.3050054747830708
+ - Trading from:  20190708 to  20191004
+--------------------------------------------------
+previous_total_asset:1458406.535958571
+end_total_asset:1457036.63526226
+total_reward:-1369.9006963109132
+total_cost:  1615.368345909031
+total trades:  319
+Sharpe:  -0.040888848141313695
+--------------------------------------------------
+ - Turbulence_threshold:  96.08032158358223
+ - Model training from:  20090000 to  20190708
+ - PPO Training
+ - Training time (PPO):  3.4671496589978537  minutes
+ - PPO Validation from:  20190708 to  20191004
+ - PPO Sharpe Ratio:  -0.044979031837063296
+ - Trading from:  20191004 to  20200106
+--------------------------------------------------
+previous_total_asset:1457036.63526226
+end_total_asset:1457013.8383197794
+total_reward:-22.79694248060696
+total_cost:  260.6072977482748
+total trades:  58
+Sharpe:  -0.005672586525488364
+--------------------------------------------------
+ - Turbulence_threshold:  96.08032158358223
+ - Model training from:  20090000 to  20191004
+ - PPO Training
+ - Training time (PPO):  3.4650422016779583  minutes
+ - PPO Validation from:  20191004 to  20200106
+ - PPO Sharpe Ratio:  -0.3465762254706126
+ - Trading from:  20200106 to  20200406
+--------------------------------------------------
+previous_total_asset:1457013.8383197794
+end_total_asset:1439556.2743047173
+total_reward:-17457.56401506206
+total_cost:  916.6900985847525
+total trades:  165
+Sharpe:  -0.38973550129997364
+--------------------------------------------------
+ - Turbulence_threshold:  96.08032158358223
+ - Model training from:  20090000 to  20200106
+ - PPO Training
+ - Training time (PPO):  3.489498221874237  minutes
+ - PPO Validation from:  20200106 to  20200406
+ - PPO Sharpe Ratio:  -0.4734399720239065
+ - Trading from:  20200406 to  20200707
+--------------------------------------------------
+previous_total_asset:1439556.2743047173
+end_total_asset:1441059.8200284294
+total_reward:1503.5457237120718
+total_cost:  459.87905724596493
+total trades:  116
+Sharpe:  0.15482819815748533
+Ensemble Strategy took:  60.69662701686223  minutes
